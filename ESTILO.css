@@ -1,0 +1,96 @@
+.Herencia{
+    background-color: rgb(248, 249, 249);
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    text-align: justify;
+}
+
+.P1{
+   line-height:20px;   
+   border-width:2px;
+   border-color:#CB9D9D;
+   border-style: dashed;
+   color: black;
+   padding: 10px;
+}
+
+.FPHOTO{
+    border-color: #CB9D9D;
+    border-style:dotted; 
+    height: 110px;
+    width: 150px; 
+    border-width: thick;
+    padding: 3px;
+ }
+
+.P2{
+    line-height:20px; 
+    border-width:2px;
+    border-color: rgb(130, 224, 170);
+    border-style: dashed;
+    color: black;
+    padding: 10px;
+}
+
+.SPHOTO{
+    border-color: rgb(130, 224, 170);
+    border-style:dotted; 
+    height: 110px;
+    width: 150px; 
+    border-width: thick;
+    padding: 3px;
+}
+
+.DESTACADO{
+    line-height:20px;
+    border-width:2px;
+    border-color:#64A442;
+    border-style: dashed;
+    color: rgb(30, 14, 14);
+    padding: 10px;
+}
+
+.TPHOTO{
+    height: 120px;
+    width: 155px; 
+    padding: 5px;
+    float: left;
+}
+
+.TPHOTO1{
+    height: 120px;
+    width: 155px; 
+    padding: 5px;
+    float: right;
+}
+.P4{
+    line-height:20px;
+    border-width:2px;
+    border-color: #CAABC2;
+    border-style: dashed;
+    color: black;
+    padding: 10px;  
+}
+
+.FPHOTO1{
+    border-color: #A56495;
+    border-style:dotted; 
+    height: 110px;
+    width: 150px; 
+    border-width: thick;
+    padding: 3px;
+}
+
+.LINK{
+    background-color: #CAABC2;
+}
+
+h2 {
+    color: #193925;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.Logo {
+    height: 60px;
+    width: 105px; 
+}
